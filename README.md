@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Cainan Samuel
+👋 Olá! Eu sou o Cainan Samuel
 
 🛠️ Desenvolvedor iniciante apaixonado por criar projetos web interativos, como editores de código, jogos e plataformas de RPG.
 
